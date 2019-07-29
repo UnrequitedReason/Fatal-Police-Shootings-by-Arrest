@@ -1,0 +1,22 @@
+What is this?
+
+An analysis of fatal police shootings in the U.S. by race, per arrest rate.
+
+
+
+What does it mean?
+
+Results show that comparing fatal shootings to arrest rates instead of population distribution decreases the discrepancy between fatal police shootings by race, although it does not entirely eliminate it.
+
+
+
+Why is this important?
+
+It is important to understand the degree of the disparity between races for fatal police shootings in order to better understand why it exists. The results show that a large portion of the discrepancy between races can be explained by arrest rates (especially for Native American populations, who actually have the lowest unarmed death/arrest rate of all races examined. The high ratios for black and hispanic populations, however, remain concerning.
+
+
+Sources:
+
+U.S. Department of Justice. (2017, September 18). 2016 Crime in the United States. Retrieved July 26, 2019, from https://ucr.fbi.gov/crime-in-the-u.s/2016/crime-in-the-u.s.-2016/topic-pages/tables/table-21
+
+Washington Post. (n.d.). Police shootings 2016 database. Retrieved July 26, 2019, from https://www.washingtonpost.com/graphics/national/police-shootings-2016/
